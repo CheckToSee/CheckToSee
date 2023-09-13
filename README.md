@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Cheikh</h1>
 <h3 align="center">A Frontend Developer from Maryland</h3>
 <img align="right" alt="Coding" width="1920" src="https://clipart-library.com/2023/coding-clipart-xl.png">
-<br>
+<h3></h3>
 
 - 🔭 I’m currently working on **wordle-clone**
 
