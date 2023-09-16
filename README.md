@@ -2,7 +2,7 @@
 <h3 align="center">A Frontend Developer from Maryland</h3>
 <img align="right" alt="Coding" width="1920" src="https://clipart-library.com/2023/coding-clipart-xl.png">&nbsp;
 
-- 🔭 I’m currently working on **wordle-clone**
+- 🔭 I’m currently working on **wordle-clone and Healthcare-Modern-App**
 
 - 🌱 I’m currently learning **Backend (Django, NodeJS, ExpressJS, MongoDB)**
 
