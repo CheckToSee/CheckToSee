@@ -10,7 +10,7 @@
 
 - 📫 Reach me at: **cheikhsdime@gmail.com**
 
-- ⚡ Fun fact: **Vim btw 💀**
+- ⚡ Fun fact: **I live in the terminal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
