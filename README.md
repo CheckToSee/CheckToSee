@@ -2,15 +2,15 @@
 <h3 align="center">A Frontend Developer from Maryland</h3>
 <img align="right" alt="Coding" width="1920" src="https://clipart-library.com/2023/coding-clipart-xl.png">&nbsp;
 
-- 🔭 I’m currently working on **wordle-clone** and **Healthcare-Modern-App**
+- 🔭 I’m currently working on **WebRTC**
 
-- 🌱 I’m currently learning **Backend (Django, NodeJS, ExpressJS, MongoDB)**
+- 🌱 I’m currently learning more about **Django**
 
-- 💬 Ask me about **tailwind**
+- 💬 Ask me how I feel about **tailwind**
 
 - 📫 Reach me at: **cheikhsdime@gmail.com**
 
-- ⚡ Fun fact: **I live in the terminal**
+- ⚡ Fun fact: **I use <a href="https://helix-editor.com/">Helix!</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
